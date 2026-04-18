@@ -1,0 +1,6 @@
+cf_index,predicted_rt,n_features_changed,delta_logp,delta_num_aromatic_rings,delta_balabanj,delta_hallkieralpha,delta_molmr,delta_kappa2,delta_labuteasa,delta_peoe_vsa2,delta_slogp_vsa2,delta_molecular_weight,delta_peoe_vsa3
+1,10.0,5,-1.4084500000000002,1.0,-1.9871640000000008,1.95,-5.112999999999992,,,,,,
+2,10.0,5,-1.3763,,,,,0.09314026032647815,-11.06299311949697,9.6,7.4,,
+3,10.0,3,-1.3763,,,,,,-11.06299311949697,,7.4,,
+4,10.0,4,-1.3763,,,,,0.09314026032647815,-11.06299311949697,,7.4,,
+5,10.0,5,,-1.0,,,,,-3.3335331194969697,0.9,,-18.417680192,0.1
