@@ -1,8 +1,8 @@
 # Causally-Constrained Counterfactual Explanations for GC-MS Retention Time Prediction
 
 **CS 6460 · Lourdes Castleton · Utah Valley University**  
-Advisor: Dr. Rudolph
-
+See video presentation :
+https://youtu.be/8lQN3KkD7M0
 ## Overview
 A four-step pipeline that extends an XGBoost-based GC-MS retention time 
 prediction model with causally-constrained counterfactual explanations 
