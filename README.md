@@ -3,6 +3,10 @@
 **CS 6460 · Lourdes Castleton · Utah Valley University**  
 See video presentation :
 https://youtu.be/8lQN3KkD7M0
+
+
+## 📊 Presentation Slides
+[CS 6460 Final Project Slides (PDF)](./CS_6460_final_project_and_presentation_slides.pdf)
 ## Overview
 A four-step pipeline that extends an XGBoost-based GC-MS retention time 
 prediction model with causally-constrained counterfactual explanations 
