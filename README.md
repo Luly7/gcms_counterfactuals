@@ -7,7 +7,7 @@ https://youtu.be/8lQN3KkD7M0
 [CS 6460 Final Project](./CS6460_final_project-1.pdf)
 
 ## 📊 Presentation Slides
-[CS 6460 Final Project Slides (PDF)](./CS_6460_final_project_and_presentation_slides.pdf)
+[CS 6460 Final Project Slides (PDF)](./gcms_counterfactuals_slides-2.pdf)
 ## Overview
 A four-step pipeline that extends an XGBoost-based GC-MS retention time 
 prediction model with causally-constrained counterfactual explanations 
