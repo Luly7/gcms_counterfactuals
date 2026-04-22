@@ -4,7 +4,11 @@
 See video presentation :
 https://youtu.be/8lQN3KkD7M0
 
+See project write-up:
 [CS 6460 Final Project](./CS6460_final_project-1.pdf)
+
+See GCMS feature dictionary:
+[CS 6460 Final Project](./gcms_feature_dictionary.pdf)
 
 ## 📊 Presentation Slides
 [CS 6460 Final Project Slides (PDF)](./gcms_counterfactuals_slides-2.pdf)
