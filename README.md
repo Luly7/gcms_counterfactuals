@@ -10,6 +10,9 @@ See project write-up:
 See GCMS feature dictionary:
 [CS 6460 Final Project Feature Dictionary](./gcms_feature_dictionary.pdf)
 
+See linkt to the GC-MS Retention Time Prediction:
+[CS 6610 Final Capstone] https://github.com/Luly7/FINAL_CAPSTONE.git
+
 ## 📊 Presentation Slides
 [CS 6460 Final Project Slides (PDF)](./gcms_counterfactuals_slides-2.pdf)
 ## Overview
@@ -43,4 +46,4 @@ PYTHONPATH=. python counterfactual/visualize.py
 
 ## Built on
 - XGBoost · DiCE · DoWhy · RDKit · scikit-learn
-- Extends CS 6610 capstone: github.com/Luly7/CAPSTONE
+- Extends CS 6610 capstone: github.com/Luly7/FINAL_CAPSTONE
